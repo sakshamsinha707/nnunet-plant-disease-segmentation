@@ -181,9 +181,21 @@ python compute_metrics.py
 | IoU (Jaccard) | 0.78 |
 | Accuracy | 0.92 |
 
+| Results |  |
+|--------|-------------|
+| Macro Dice: 0.6802354970430974  |
+| Macro IoU: 0.5745071178671513  |
+| Precision: 0.7009418208593667  |
+|Recall: 0.7820120743037867 |
+
+
+
+
 *Note: Results may vary based on dataset size and training parameters.*
 
 ### Sample Results
+<img width="2300" height="4800" alt="progress" src="https://github.com/user-attachments/assets/ba2c79ed-2e47-4e67-b8b5-ed100890cc8a" />
+
 
 ![Segmentation Results](https://via.placeholder.com/600x300?text=Sample+Segmentation+Results)
 
