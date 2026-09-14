@@ -6,8 +6,6 @@
 
 A comprehensive pipeline for plant disease segmentation using the nnU-Net framework. This repository provides tools for converting PlantSeg datasets, preprocessing, training, and evaluating segmentation models for plant disease detection.
 
-![Plant Disease Segmentation Pipeline](https://via.placeholder.com/800x200?text=Plant+Disease+Segmentation+Pipeline)
-
 ## 📋 Table of Contents
 
 - [Features](#features)
